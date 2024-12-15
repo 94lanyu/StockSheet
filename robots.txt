@@ -1,5 +1,3 @@
 
 User-agent:*
 Disallow:
-
-Sitemap: https://94lanyu.github.io/StockSheet/sitemap.xml
